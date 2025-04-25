@@ -1,11 +1,11 @@
-# 👋 Salut, je suis Vivi !
+# 👋 Salut, je suis Vincent !
 
 Bienvenue sur mon profil GitHub.
 
 ## 📊 À propos de moi
 
 - 🎓 En reconversion vers la data science et l’analyse de données
-- 📚 Actuellement en formation Python, SQL et Power BI
+- 📚 Actuellement en formation Python, SQL
 - 🎯 Objectif : devenir Data Scientist et contribuer à des projets innovants
 - 💼 Intéressé par l’analyse de données, l’intelligence artificielle et l’automatisation
 
@@ -18,8 +18,8 @@ Bienvenue sur mon profil GitHub.
 
 ## 📫 Me contacter
 
-- 📧 Email : [ton.email@mail.com](mailto:ton.email@mail.com)
-- 📱 LinkedIn : [Ton profil LinkedIn](https://www.linkedin.com)
+- 📧 Email : [vincent.roland@orange.fr](mailto:vincent.roland@orange.fr)
+- 📱 LinkedIn : [Vincent Roland](www.linkedin.com/in/vincent-roland-2b536824b)
 
 ---
 
